@@ -1,10 +1,10 @@
 # atd-data-utils-socrata (socratautil)
-Python utilities for interacting with the Socrata Open Data API.
+Python utilities for registering postgREST scripting [jobs](https://github.com/cityofaustin/atd-data-deploy/).
 
 ## Installation
 
 ```bash
-$ pip install atd_socratautil
+$ pip install atd_jobuti
 ```
 ## License
 As a work of the City of Austin, this project is in the public domain within the United States.
