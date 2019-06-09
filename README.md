@@ -1,5 +1,6 @@
-# atd-data-utils-socrata (socratautil)
-Python utilities for registering postgREST scripting [jobs](https://github.com/cityofaustin/atd-data-deploy/).
+# atd-data-utils-log (logutil)
+
+Python utilities for common logging tasks.
 
 ## Installation
 
